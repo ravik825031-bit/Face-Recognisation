@@ -80,7 +80,17 @@ python main.py
 
 ## 📸 Screenshots (Optional)
 
-*Add your project screenshots here*
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4bad4f90-d3e5-40ea-aaa3-f2949f06c0ba" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/40ff5eaf-496f-4d1e-a9f3-5d1ba9598dca" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/322d5be8-e400-4059-90ba-e7470e2dde01" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2e464c2d-e43f-445e-9507-097d3e2f9233" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0a71ee51-66bc-451a-9d5d-59e08147a63e" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/52e6e2b0-b3d3-41ff-a4f1-abd35d447787" />
+
+
+
+
+
 
 ---
 
